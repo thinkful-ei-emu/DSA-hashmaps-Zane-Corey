@@ -1,0 +1,5 @@
+What are the values of Maiar and Hobbit that you have?
+Sauron, Frodo 
+Is there a discrepancy?
+Yes, All values are not displayed due to a collision. Bilbo and Necromancer are not displayed. 
+Explain your answer.
